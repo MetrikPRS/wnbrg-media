@@ -2,9 +2,9 @@
 * 
 * Templarte Master Stylesheet
 * 
-* Template:		RED - Responsive One Page HTML5 Website Template
-* Author: 		Themetorium
-* URL:			https://themetorium.net
+* Homepage:		WNBRG:MEDIA Mediadesign
+* Author: 		WNBRG:MEDIA c/o Maik Schmitt
+* URL:			http://www.wnbrg-media.de/
 * 
 * Template main color: #F20000;
 * 
@@ -14,21 +14,21 @@
 
 /* Begin "Oswald" font fix */
 @font-face {
-  font-family: 'Oswald';
-  font-weight: 300;
-  src: local('?'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+	font-family: 'Oswald';
+	font-weight: 300;
+	src: local('?'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
 
 @font-face {
-  font-family: 'Oswald';
-  font-weight: 400;
-  src: local('?'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/-g5pDUSRgvxvOl5u-a_WHw.woff) format('woff');
+	font-family: 'Oswald';
+	font-weight: 400;
+	src: local('?'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/-g5pDUSRgvxvOl5u-a_WHw.woff) format('woff');
 }
 
 @font-face {
-  font-family: 'Oswald';
-  font-weight: 700;
-  src: local('?'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/bH7276GfdCjMjApa_dkG6T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+	font-family: 'Oswald';
+	font-weight: 700;
+	src: local('?'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/bH7276GfdCjMjApa_dkG6T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
 /* End "Oswald" font fix */
 
