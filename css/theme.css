@@ -6,7 +6,7 @@
 * Author: 		WNBRG:MEDIA c/o Maik Schmitt
 * URL:			http://www.wnbrg-media.de/
 * 
-* Template main color: #F20000;
+* Template main color: #00baac;
 * 
 ---------------------------------------------------------------------------------*/
 
@@ -53,10 +53,10 @@ body {
 }
 a {
 	font-weight: normal;
-	color: #F20000;
+	color: #00baac;
 }
 a:hover, a:focus {
-	color: #F20000;
+	color: #00baac;
 	text-decoration: underline;
 }
 a:focus {
@@ -79,7 +79,7 @@ hr {
 	border-color: rgba(146, 146, 146, 0.23);
 }
 ::selection {
-	background-color: #F20000;
+	background-color: #00baac;
 	color: #FFF;
 }
 
@@ -126,7 +126,7 @@ hr {
 	margin-top: -40px;
 	margin-left: -40px;
 	border-radius: 40px;
-	background-color: #F20000;
+	background-color: #00baac;
 	-webkit-animation: scaleout 1.0s infinite ease;
 	animation: scaleout 1.0s infinite ease;
 }
@@ -291,7 +291,7 @@ hr {
 .divider {
 	width: 50px;
 	height: 5px;
-	background-color: #F20000;
+	background-color: #00baac;
 	margin: 20px 0 30px 0;
 }
 
@@ -519,7 +519,7 @@ section .container {
 	cursor: pointer;
 }
 .mb_YTPBar .mb_YTPseekbar {
-	background: #F20000;
+	background: #00baac;
 	cursor: pointer;
 }
 
@@ -1237,7 +1237,7 @@ img.mfp-img {
 	color: #000;
 }
 .panel-warning .panel-title a:hover, .panel-warning .panel-title a:focus {
-	color: #F20000;
+	color: #00baac;
 }
 .panel-warning > .panel-heading + .panel-collapse > .panel-body {
 	border-top-color: #F4DF4D;
@@ -1245,17 +1245,17 @@ img.mfp-img {
 
 /* panel-danger */
 .panel-danger {
-	border-color: #F20000;
+	border-color: #00baac;
 }
 .panel-danger > .panel-heading {
-	background-color: #F20000;
+	background-color: #00baac;
 	color: #FFF;
 }
 .panel-danger .panel-title a:hover, .panel-danger .panel-title a:focus {
 	color: #000;
 }
 .panel-danger > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #F20000;
+	border-top-color: #00baac;
 }
 
 
@@ -1415,7 +1415,7 @@ img.mfp-img {
 
 /* tt-accordion colored style */
 .tt-accordion.accordion-colored .tt-accordion-item-header {
-	background-color: #F20000;
+	background-color: #00baac;
 	color: #FFF;
 }
 .tt-accordion.accordion-colored .tt-accordion-item-title button {
@@ -1447,7 +1447,7 @@ img.mfp-img {
 /* article heading */
 .blog .blog-heading {
 	height: 400px;
-	background-color: #F20000;
+	background-color: #00baac;
 	color: #FFF;
 }
 .blog .blog-heading .divider {
@@ -1609,13 +1609,13 @@ img.mfp-img {
 	text-align: center;
 	font-size: 28px;
 	color: #000;
-	box-shadow: inset 0px 0px #F20000;
+	box-shadow: inset 0px 0px #00baac;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 .contact-section .social-icons a:hover {
 	color: #FFF;
-	box-shadow: inset 0px -62px #F20000;
+	box-shadow: inset 0px -62px #00baac;
 }
 @media only screen and (min-width: 992px) {
 	.contact-section .col-left .col-inner {
@@ -1714,33 +1714,33 @@ img.mfp-img {
 .btn-white {
 	color: #000;
 	background-color: #FFF;
-	box-shadow: inset 0px 0px #F20000;
+	box-shadow: inset 0px 0px #00baac;
 }
 .btn-white:hover, .btn-white:active, .btn-white.active, .btn-white:focus, .btn-white.disabled, .btn-white[disabled] {
 	color: #FFF;
 	background-color: #FFF;
-	box-shadow: inset 0px -65px #F20000;
+	box-shadow: inset 0px -65px #00baac;
 }
 
 .btn-warning {
 	color: #FFF;
-	background-color: #F20000;
+	background-color: #00baac;
 	box-shadow: inset 0px -3px rgba(0, 0, 0, 0.1);
 }
 .btn-warning:hover, .btn-warning:active, .btn-warning.active, .btn-warning:focus, .btn-warning.disabled, .btn-warning[disabled] {
 	color: #FFF;
-	background-color: #F20000;
+	background-color: #00baac;
 	box-shadow: inset 0px -65px rgba(0, 0, 0, 0.1);
 }
 
 .btn-danger {
 	color: #FFF;
-	background-color: #F20000;
+	background-color: #00baac;
 	box-shadow: inset 0px -3px rgba(0, 0, 0, 0.1);
 }
 .btn-danger:hover, .btn-danger:active, .btn-danger.active, .btn-danger:focus, .btn-danger.disabled, .btn-danger[disabled] {
 	color: #FFF;
-	background-color: #F20000;
+	background-color: #00baac;
 	box-shadow: inset 0px -65px rgba(0, 0, 0, 0.1);
 }
 
@@ -1769,7 +1769,7 @@ img.mfp-img {
 .btn-link {
 	border-color: transparent;
 	cursor: pointer;
-	color: #F20000;
+	color: #00baac;
 	border-radius: 2px;
 }
 .btn-link, .btn-link:active, .btn-link:focus, .btn-link[disabled] {
@@ -1781,12 +1781,12 @@ img.mfp-img {
 .btn-inverse {
 	color: #FFF;
 	background-color: #000;
-	box-shadow: inset 0px 0px #F20000;
+	box-shadow: inset 0px 0px #00baac;
 }
 .btn-inverse:hover, .btn-inverse:active, .btn-inverse.active, .btn-inverse:focus, .btn-inverse.disabled, .btn-inverse[disabled] {
 	color: #FFF;
 	background-color: #000;
-	box-shadow: inset 0px -65px #F20000;
+	box-shadow: inset 0px -65px #00baac;
 }
 
 .btn-transparent {
@@ -1845,12 +1845,12 @@ img.mfp-img {
 	background-color: #FFF;
 	text-align: center;
 	font-size: 24px;
-	color: #F20000;
+	color: #00baac;
 	text-decoration: none;
 	z-index: 9999;
 }
 .scrolltotop:hover, .scrolltotop:focus {
-	color: #F20000;
+	color: #00baac;
 }
 @media only screen and (max-width: 768px) {
 	.scrolltotop {
