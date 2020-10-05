@@ -6,7 +6,7 @@
 * Author: 		WNBRG:MEDIA c/o Maik Schmitt
 * URL:			http://www.wnbrg-media.de/
 * 
-* Template main color: #00baac;
+* Template main colors: #00a0a0;#b20062
 * 
 ---------------------------------------------------------------------------------*/
 
@@ -53,10 +53,10 @@ body {
 }
 a {
 	font-weight: normal;
-	color: #00baac;
+	color: #00a0a0;
 }
 a:hover, a:focus {
-	color: #00baac;
+	color: #00a0a0;
 	text-decoration: underline;
 }
 a:focus {
@@ -79,7 +79,7 @@ hr {
 	border-color: rgba(146, 146, 146, 0.23);
 }
 ::selection {
-	background-color: #00baac;
+	background-color: #00a0a0;
 	color: #FFF;
 }
 
@@ -126,7 +126,7 @@ hr {
 	margin-top: -40px;
 	margin-left: -40px;
 	border-radius: 40px;
-	background-color: #00baac;
+	background-color: #00a0a0;
 	-webkit-animation: scaleout 1.0s infinite ease;
 	animation: scaleout 1.0s infinite ease;
 }
@@ -291,7 +291,7 @@ hr {
 .divider {
 	width: 50px;
 	height: 5px;
-	background-color: #00baac;
+	background-color: #b20062;
 	margin: 20px 0 30px 0;
 }
 
@@ -519,7 +519,7 @@ section .container {
 	cursor: pointer;
 }
 .mb_YTPBar .mb_YTPseekbar {
-	background: #00baac;
+	background: #00a0a0;
 	cursor: pointer;
 }
 
@@ -713,12 +713,12 @@ section .container {
 	color: #FFF;
 	background-color: rgba(255, 255, 255, 0.16);
 	border-radius: 50%;
-	box-shadow: inset 0px 0px rgba(255, 0, 0, 0.82);
+	box-shadow: inset 0px 0px rgba(178, 0, 98, 1);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 .info-box:hover .info-box-icon {
-	box-shadow: inset 0px -75px rgba(255, 0, 0, 0.82);
+	box-shadow: inset 0px -75px rgba(178, 0, 98, 1);
 }
 .info-box-heading {
 	display: inline-block;
@@ -1237,7 +1237,7 @@ img.mfp-img {
 	color: #000;
 }
 .panel-warning .panel-title a:hover, .panel-warning .panel-title a:focus {
-	color: #00baac;
+	color: #00a0a0;
 }
 .panel-warning > .panel-heading + .panel-collapse > .panel-body {
 	border-top-color: #F4DF4D;
@@ -1245,17 +1245,17 @@ img.mfp-img {
 
 /* panel-danger */
 .panel-danger {
-	border-color: #00baac;
+	border-color: #00a0a0;
 }
 .panel-danger > .panel-heading {
-	background-color: #00baac;
+	background-color: #00a0a0;
 	color: #FFF;
 }
 .panel-danger .panel-title a:hover, .panel-danger .panel-title a:focus {
 	color: #000;
 }
 .panel-danger > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #00baac;
+	border-top-color: #00a0a0;
 }
 
 
@@ -1415,7 +1415,7 @@ img.mfp-img {
 
 /* tt-accordion colored style */
 .tt-accordion.accordion-colored .tt-accordion-item-header {
-	background-color: #00baac;
+	background-color: #00a0a0;
 	color: #FFF;
 }
 .tt-accordion.accordion-colored .tt-accordion-item-title button {
@@ -1447,7 +1447,7 @@ img.mfp-img {
 /* article heading */
 .blog .blog-heading {
 	height: 400px;
-	background-color: #00baac;
+	background-color: #00a0a0;
 	color: #FFF;
 }
 .blog .blog-heading .divider {
@@ -1609,13 +1609,13 @@ img.mfp-img {
 	text-align: center;
 	font-size: 28px;
 	color: #000;
-	box-shadow: inset 0px 0px #00baac;
+	box-shadow: inset 0px 0px #00a0a0;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 .contact-section .social-icons a:hover {
 	color: #FFF;
-	box-shadow: inset 0px -62px #00baac;
+	box-shadow: inset 0px -62px #00a0a0;
 }
 @media only screen and (min-width: 992px) {
 	.contact-section .col-left .col-inner {
@@ -1714,33 +1714,33 @@ img.mfp-img {
 .btn-white {
 	color: #000;
 	background-color: #FFF;
-	box-shadow: inset 0px 0px #00baac;
+	box-shadow: inset 0px 0px #00a0a0;
 }
 .btn-white:hover, .btn-white:active, .btn-white.active, .btn-white:focus, .btn-white.disabled, .btn-white[disabled] {
 	color: #FFF;
 	background-color: #FFF;
-	box-shadow: inset 0px -65px #00baac;
+	box-shadow: inset 0px -65px #00a0a0;
 }
 
 .btn-warning {
 	color: #FFF;
-	background-color: #00baac;
+	background-color: #00a0a0;
 	box-shadow: inset 0px -3px rgba(0, 0, 0, 0.1);
 }
 .btn-warning:hover, .btn-warning:active, .btn-warning.active, .btn-warning:focus, .btn-warning.disabled, .btn-warning[disabled] {
 	color: #FFF;
-	background-color: #00baac;
+	background-color: #00a0a0;
 	box-shadow: inset 0px -65px rgba(0, 0, 0, 0.1);
 }
 
 .btn-danger {
 	color: #FFF;
-	background-color: #00baac;
+	background-color: #00a0a0;
 	box-shadow: inset 0px -3px rgba(0, 0, 0, 0.1);
 }
 .btn-danger:hover, .btn-danger:active, .btn-danger.active, .btn-danger:focus, .btn-danger.disabled, .btn-danger[disabled] {
 	color: #FFF;
-	background-color: #00baac;
+	background-color: #00a0a0;
 	box-shadow: inset 0px -65px rgba(0, 0, 0, 0.1);
 }
 
@@ -1769,7 +1769,7 @@ img.mfp-img {
 .btn-link {
 	border-color: transparent;
 	cursor: pointer;
-	color: #00baac;
+	color: #00a0a0;
 	border-radius: 2px;
 }
 .btn-link, .btn-link:active, .btn-link:focus, .btn-link[disabled] {
@@ -1781,12 +1781,12 @@ img.mfp-img {
 .btn-inverse {
 	color: #FFF;
 	background-color: #000;
-	box-shadow: inset 0px 0px #00baac;
+	box-shadow: inset 0px 0px #00a0a0;
 }
 .btn-inverse:hover, .btn-inverse:active, .btn-inverse.active, .btn-inverse:focus, .btn-inverse.disabled, .btn-inverse[disabled] {
 	color: #FFF;
 	background-color: #000;
-	box-shadow: inset 0px -65px #00baac;
+	box-shadow: inset 0px -65px #00a0a0;
 }
 
 .btn-transparent {
@@ -1845,12 +1845,12 @@ img.mfp-img {
 	background-color: #FFF;
 	text-align: center;
 	font-size: 24px;
-	color: #00baac;
+	color: #00a0a0;
 	text-decoration: none;
 	z-index: 9999;
 }
 .scrolltotop:hover, .scrolltotop:focus {
-	color: #00baac;
+	color: #00a0a0;
 }
 @media only screen and (max-width: 768px) {
 	.scrolltotop {
